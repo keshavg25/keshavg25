@@ -1,24 +1,107 @@
-# 💫 About Me:
-i am currently Working on data science projects and strengthening my Python, SQL, and machine learning fundamentals.<br>I’m looking to collaborate on Beginner-friendly data science projects, web development projects, and academic research-based applications.<br>I’m looking for help with Advanced machine learning concepts, model optimization, and real-world data analysis techniques.<br>I’m currently learning Data Science, Machine Learning, Python for data analysis, and SQL.<br>Ask me about Full-stack web development, PHP & MySQL projects, BCA final-year project development, and Git/GitHub.<br>fun fact is that I learn best by building projects rather than just reading theory.<br>
+<h1 align="center">Hi 👋, I'm Keshav Gangwani</h1>
+<h3 align="center">MSc Data Science Student | BCA Graduate | Web & Data Science Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keshav_g25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-gangwani-185569249) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Gangwanikeshav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@gangwani_keshav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gangwanikeshav2005@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=keshavg25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=keshavg25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavg25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=keshavg25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=keshavg25&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=keshavg25&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍🎓 About Me
+
+- 🎓 BCA Graduate, currently pursuing **MSc in Data Science**
+- 🧠 Strong interest in **Data Science, Machine Learning, and Applied AI**
+- 🏗️ Believe in **learning by building real-world projects**
+- 🌱 Actively strengthening **statistics, ML fundamentals, and data analysis**
+- 🌐 Background in **full-stack web development** with backend integration
+
+---
+
+## 🎯 Current Focus Areas
+
+- 📊 Data Analysis & Exploratory Data Science  
+- 🤖 Machine Learning Model Development  
+- 🧠 Strengthening Statistics & Model Intuition  
+- 🌐 Integrating ML models with Web Applications  
+
+---
+
+## 🚀 Highlighted Projects
+
+- 🏡 **Villa Rental Website (BCA Final-Year Project)**  
+  Full-stack web application featuring villa listings, booking & inquiry system,  
+  admin dashboard, and automated email notifications.
+
+- 📈 **Data Analysis & ML Mini Projects**  
+  Hands-on projects involving data cleaning, visualization, and basic prediction models.
+
+- 🌐 **Web-Based Applications**  
+  Practical systems developed using PHP, MySQL, HTML, CSS, and JavaScript.
+
+---
+
+## 🛠️ Languages & Tools
+
+### 🔹 Programming & Databases
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+### 🔹 Data Science & ML Libraries
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
+</p>
+
+### 🔹 Web & Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Learning & Writing
+
+- 📘 Notes on **Statistics & Machine Learning fundamentals**
+- 🧪 Hands-on learning through **small experiments & projects**
+- 📝 Planning to share learnings through **blogs and documentation**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Personal Philosophy
+
+> “Strong fundamentals, consistent practice, and real-world projects are the foundation of good engineering.”
