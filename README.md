@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Gangwani</h1>
 <h3 align="center">MSc Data Science Student | BCA Graduate | Web & Data Science Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
