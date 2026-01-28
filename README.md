@@ -1,43 +1,43 @@
-<h1 align="center">Hi 👋, I'm Keshav Gangwani</h1>
+<h1 align="center">Hi , I'm Keshav Gangwani</h1>
 <h3 align="center">MSc Data Science Student | BCA Graduate | Web & Data Science Enthusiast</h3>
 
 
 ---
 
-## 👨‍🎓 About Me
+##  About Me
 
-- 🎓 BCA Graduate, currently pursuing **MSc in Data Science**
-- 🧠 Strong interest in **Data Science, Machine Learning, and Applied AI**
-- 🏗️ Believe in **learning by building real-world projects**
-- 🌱 Actively strengthening **statistics, ML fundamentals, and data analysis**
-- 🌐 Background in **full-stack web development** with backend integration
-
----
-
-## 🎯 Current Focus Areas
-
-- 📊 Data Analysis & Exploratory Data Science  
-- 🤖 Machine Learning Model Development  
-- 🧠 Strengthening Statistics & Model Intuition  
-- 🌐 Integrating ML models with Web Applications  
+-  BCA Graduate, currently pursuing **MSc in Data Science**
+-  Strong interest in **Data Science, Machine Learning, and Applied AI**
+-  Believe in **learning by building real-world projects**
+-  Actively strengthening **statistics, ML fundamentals, and data analysis**
+-  Background in **full-stack web development** with backend integration
 
 ---
 
-## 🚀 Highlighted Projects
+##  Current Focus Areas
 
-- 🏡 **Villa Rental Website (BCA Final-Year Project)**  
+-  Data Analysis & Exploratory Data Science  
+-  Machine Learning Model Development  
+-  Strengthening Statistics & Model Intuition  
+-  Integrating ML models with Web Applications  
+
+---
+
+##  Highlighted Projects
+
+-  **Villa Rental Website (BCA Final-Year Project)**  
   Full-stack web application featuring villa listings, booking & inquiry system,  
   admin dashboard, and automated email notifications.
 
-- 📈 **Data Analysis & ML Mini Projects**  
+-  **Data Analysis & ML Mini Projects**  
   Hands-on projects involving data cleaning, visualization, and basic prediction models.
 
-- 🌐 **Web-Based Applications**  
+-  **Web-Based Applications**  
   Practical systems developed using PHP, MySQL, HTML, CSS, and JavaScript.
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 ### 🔹 Programming & Databases
 <p>
@@ -66,15 +66,15 @@
 
 ---
 
-## 📚 Learning & Writing
+##  Learning & Writing
 
-- 📘 Notes on **Statistics & Machine Learning fundamentals**
-- 🧪 Hands-on learning through **small experiments & projects**
-- 📝 Planning to share learnings through **blogs and documentation**
+-  Notes on **Statistics & Machine Learning fundamentals**
+-  Hands-on learning through **small experiments & projects**
+-  Planning to share learnings through **blogs and documentation**
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
@@ -86,7 +86,7 @@
 
 ---
 
-## 🌐 Let’s Connect
+##  Let’s Connect
 
 <p>
   <a href="https://www.linkedin.com/in/your-linkedin/">
@@ -99,6 +99,6 @@
 
 ---
 
-## ✨ Personal Philosophy
+##  Personal Philosophy
 
 > “Strong fundamentals, consistent practice, and real-world projects are the foundation of good engineering.”
